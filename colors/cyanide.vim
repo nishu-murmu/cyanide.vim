@@ -11,20 +11,7 @@ endif
 set t_Co=256
 let g:colors_name = "corporation_modified"
 
-"hi CTagsMember -- no settings --
-"hi CTagsGlobalConstant -- no settings --
-"hi Ignore -- no settings --
 hi Normal guifg=#6a99eb guibg=#000000 guisp=#000000 gui=bold ctermfg=68 ctermbg=NONE cterm=bold
-"hi CTagsImport -- no settings --
-"hi CTagsGlobalVariable -- no settings --
-"hi EnumerationValue -- no settings --
-"hi Union -- no settings --
-"hi Question -- no settings --
-"hi EnumerationName -- no settings --
-"hi DefinedName -- no settings --
-"hi LocalVariable -- no settings --
-"hi CTagsClass -- no settings --
-"hi clear -- no settings --
 hi IncSearch guifg=#192224 guibg=#BD9800 guisp=#BD9800 gui=NONE ctermfg=235 ctermbg=1 cterm=NONE
 hi WildMenu guifg=NONE guibg=#A1A6A8 guisp=#A1A6A8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi SignColumn guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 ctermbg=60 cterm=NONE
